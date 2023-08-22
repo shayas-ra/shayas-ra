@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shayas-ra
+- 👋 Hi, I’m @shayas R. Ashraf 
 - 👀 I’m interested in Full Stack Web Development
 - 🌱 I’m currently learning Full Stack Web Development @theodinproject
 - 💞️ I’m looking to collaborate on Open Sourse Projects that can leed to job in future
